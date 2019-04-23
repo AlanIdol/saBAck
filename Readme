@@ -1,0 +1,12 @@
+En esta aplicación llamada "TWINDER" el usuario solo puede seguir a las cuentas que le van apareciendo aleatoriamente, cada cuenta tiene un perfil con su propia información y donde puede publicar lo que quiera.
+En la pestaña "conocer", apareceran perfiles, en los cuales se tiene la posibilidad de presionar "si" para comenzar a seguir un usuario o "no" para rechazar la recomendación y que los posteos de esta cuenta no aparezcan en el inicio.
+Las publicaciones serán en formato texto y tambien podrán agregarse fotos, teniendo cada cuenta un nombre de usuario único.
+
+Bloques:
+-Conoce: Aqui aparecen nuevos usuarios para seguir.
+
+-Inicio: Donde se ven las publicaciones de las cuentas seguidas
+
+-Notificaciones: Nuevos seguidores y posiblemente otros avisos.
+
+-Ver perfil: Ver perfil de usuario y publicaciones.
